@@ -139,3 +139,10 @@ form {
 .btn-primary:hover {
     background-color: #0056b3;
 }
+
+.success-message {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+    display: none; 
+}
